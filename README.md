@@ -6,7 +6,7 @@ Running the Project
 To run the project, follow these steps:
 
 
-Watch a video walkthrough of the project on Google Drive. https://docs.google.com/presentation/d/1vPK87D_SzWJ1kBbNjDlKFvSMfQXSdLAIX_zcZ4ep394/edit
+Watch a video walkthrough of the project on Google Drive. https://drive.google.com/file/d/1X1rHpS1rAyAvCdczYNeLaByXNal7dkCF/view?usp=sharing
 
 Reflection
 In this project, I encountered using ren'py in the beginning, but overcame them by watching lots and lots of tutorials. Overall, I learned the basics of how to use ren'py and I will continue to use it. Probably also try to make this project even better by inclcuing videos and more labels to make it more interesting!
