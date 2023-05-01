@@ -1,4 +1,4 @@
-# Final-porject
+# Final-project
 Final Project: Owls in the city
 This is the final project for CIS 1051. The project is exploring Temple. 
 
